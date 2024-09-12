@@ -35,11 +35,16 @@ go run main.go
 
 A API estará disponível em http://localhost:8080.
 
-Rotas Disponíveis
+## ROTAS DISPONÍVEIS:
+
 GET /alunos: Retorna a lista de alunos.
+
 GET /alunos/:id: Retorna um aluno específico pelo ID.
+
 POST /alunos: Cria um novo aluno.
+
 PUT /alunos/:id: Atualiza um aluno existente pelo ID.
+
 DELETE /alunos/:id: Deleta um aluno pelo ID.
 
 
